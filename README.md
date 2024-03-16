@@ -1,1 +1,1 @@
-# Aulas-da-Sexta---Computa-o-Gr-fica-e-Realidade-Virtual
+Aulas-da-Sexta Computação Gráfica e Realidade Virtual
